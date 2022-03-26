@@ -1,2 +1,2 @@
-# ADBench
-Autonomous driving benchmark for computing systems research
+# AVBench
+Autonomous vehicle benchmark for computing systems research
